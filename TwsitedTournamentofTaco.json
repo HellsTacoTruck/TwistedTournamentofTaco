@@ -1,6 +1,6 @@
 {
   "Name": "Twisted Tournament of Taco",
-  "Version": 1728271993,
+  "Version": 1728524740,
   "MaxPerkRepetition": 1,
   "GlobalNotes": "",
   "Tiers": [
@@ -1101,16 +1101,32 @@
         0
       ],
       "AntiFacecampPermitted": false,
-      "KillerIndvPerkBans": [],
+      "KillerIndvPerkBans": [
+        "151"
+      ],
       "KillerComboPerkBans": [],
-      "SurvivorIndvPerkBans": [],
+      "SurvivorIndvPerkBans": [
+        "34",
+        "36",
+        "38",
+        "39",
+        "61",
+        "69",
+        "76",
+        "77",
+        "121",
+        "126"
+      ],
       "SurvivorComboPerkBans": [],
       "SurvivorWhitelistedPerks": [],
       "SurvivorWhitelistedComboPerks": [],
       "KillerWhitelistedPerks": [],
       "KillerWhitelistedComboPerks": [],
       "AddonTiersBanned": [],
-      "IndividualAddonBans": [],
+      "IndividualAddonBans": [
+        297,
+        298
+      ],
       "ItemWhitelist": [],
       "AddonWhitelist": {
         "Firecracker": {
@@ -1132,8 +1148,13 @@
           "Addons": []
         }
       },
-      "SurvivorOfferings": [],
-      "KillerOfferings": []
+      "SurvivorOfferings": [
+        6
+      ],
+      "KillerOfferings": [
+        0,
+        1
+      ]
     },
     {
       "Name": "The Ghost Face",
